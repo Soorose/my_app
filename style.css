@@ -1,0 +1,38 @@
+body{
+  background: white(245,245,245);
+  color: 20f7cc;
+  font-size: 20px;
+  font-family: Nunito, sans-serif;
+
+}
+
+h1{
+  font-family: Nunito 300, sans-serif;
+  color: grey;
+  font-weight: lighter;
+  font-size: 20px;
+}
+h2 {
+  font-family: Nunito 700, sans-serif;
+  color: grey;
+  font-weight: lighter
+  font-size: 3px;
+
+}
+a {
+  color: black;
+  font-size: 0px;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: black;
+}
+
+#bibi{margin-left: 300px}
